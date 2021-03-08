@@ -1,0 +1,19 @@
+{
+  "name": "haupt/meinmod",
+  "description": "Test-Modul",
+  "authors": [
+    {
+        "name": "Haupt",
+        "email": "abcabc123123@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Haupt\\Meinmod\\": "haupt/meinmod"
+    },
+  },
+
+}
